@@ -4,3 +4,5 @@ title: "CV"
 
 <a href="pdfs/Adam C Smith CV 2021.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
+My [Google Scholar](https://scholar.google.ca/citations?hl=en&user=L04l5v0AAAAJ) site has a full list of my publications.
+
