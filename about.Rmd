@@ -1,10 +1,8 @@
 ---
 title: "Adam C. Smith"
-output:
-  html_document:
-    includes:
-      in_header: about-cover.html
 ---
+<div style="display:table-cell; vertical-align:middle; text-align:left">
+<img src="img/Pine_Warbler_Trends_2004.png"  style="float:right" width = "45%">
 
 I am a quantitative ecologist with the Canadian Wildlife Service, a branch of Environment and Climate Change Canada. I am also an adjunct professor at Carleton University. 
 
@@ -20,14 +18,6 @@ More philosophically, the Bayesian framework allows me to answer the questions o
 
 My data-science work is all available on my [GitHub site](https://github.com/AdamCSmithCWS). I have immensely benefited from the open code and data of others. I have discovered that working openly and transparently improves my science (and makes life easier for me). I hope that making my work available and open will also be useful for others.  
 
-## Changing Natural World
-
-I am deeply concerned for the future of my children and all of humanity.
-At the same time, I'm filled with hope by our capacity to collaborate, to learn, and to act in our own best interests.
-
-The climate crisis is here and will only worsen over the course of my children's lives. The biodiversity crisis will likely have equally dire consequences, and since extinction is forever, these consequences will affect all our children and every human child in the future.
-
-And yet human history has been a long, slow march towards more just, peaceful, cooperative, inclusive, and fair societies. We overcome our fears of each other. We learn about the natural world around us. We can choose to act in our best interests. For example, the [recovery of raptors after the banning of DDT](http://nabci.net/resources/state-of-canadas-birds-2019/) demonstrated that when we trust the science, and act on what we've learned, the natural world will recover.   
 
 
 

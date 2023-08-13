@@ -20,6 +20,10 @@ navbar:
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/AdamCSmithCWS       # CHANGE HERE
+    - text: "Mastodon"
+      icon: fa-brands fa-mastodon
+      href: https://fediscience.org/@AdamClarkSmith       # CHANGE HERE
+
 output:
   html_document:
     theme: cosmo

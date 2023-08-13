@@ -1,5 +1,5 @@
 ---
-title: "Adam C Smith Birdstats"
+title: "Adam C Smith - Birdstats"
 output:
   html_document:
     includes:
@@ -7,9 +7,8 @@ output:
 ---
 
 
-## Adam C. Smith
-
 I am a quantitative ecologist with the Canadian Wildlife Service, a branch of Environment and Climate Change Canada. I am also an adjunct professor at Carleton University. 
 
-My schooling is in biology and over the course of my graduate studies, I reluctantly transformed from a field biologist into a data-scientist/statistician. In my work for the Canadian Wildlife Service, I specialize in using broad-scale bird monitoring data (North American Breeding Bird Survey, Christmas Bird Count, eBird, shorebird migration surveys, etc.) to model changing bird populations and to investigate the causes behind those changes.
+<img src="img/animated_map_index_Yellow-headed_Blackbird.gif" alt="Animated heat map of Yellow-headed Blackbird population trends through time, below the species' continental population trajectory from 1970 - 2019" style="width:75%;"/>
+
 
