@@ -14,13 +14,16 @@ I use Bayesian statistical models in almost all of my projects. My recent work m
 
 More philosophically, the Bayesian framework allows me to answer the questions of interest, without relying on a tortured triple-negative interpretation of alternate realities, and to incorporate prior ecological knowledge into analyses. If you want to hear some brilliant people talk about the benefits of Bayesian modeling, check out the podcast [Learning Bayesian Statistics](https://learnbayesstats.com/) and the book [Bernoulli's Fallacy](https://aubreyclayton.com/bernoulli)
 
+### Influential sources
+I keep a list of some of the resources that I've found most useful for getting thinking about statistics, modeling, and the philosophy of science [here](https://docs.google.com/document/d/1jIxbD6TMptQ5YVO3sZwileFDXLUqsfca/edit?usp=sharing&ouid=106737894193092726918&rtpof=true&sd=true).  
+
 ## Open Science
 
 My data-science work is all available on my [GitHub site](https://github.com/AdamCSmithCWS). 
 
 I am passionate about facilitating access to the long-term monitoring information that helps us understand how the natural world is changing. In particular, my work with the R-package [bbsBayes2](https://bbsbayes.github.io/bbsBayes2/). 
 
-I have immensely benefited from the open code and data of others. I have discovered that working openly and transparently improves my science (and makes life easier for me), and of course, I hope that making my work available and open will also be useful for others.  
+I have  benefited immensely from the open code and data of others. I have discovered that working openly and transparently improves my science (and makes life easier for me), and of course, I hope that making my work available and open will also be useful for others (if only as a cautionary tale).  
 
 ## Prospective Students
 
@@ -28,7 +31,7 @@ I am available to co-supervise students at Carleton (BSc, MSc, or PhD) who have 
 Please get in touch, if this kind of thing sounds interesting.
 
 
-## Animated population trends for Yellow-headed Blackbird
+### Animated population trends for Yellow-headed Blackbird
 <img src="img/animated_map_index_Yellow-headed_Blackbird.gif" alt="Animated heat map of Yellow-headed Blackbird population trends through time, below the species' continental population trajectory from 1970 - 2019" style="width:75%;"/>
 
 
